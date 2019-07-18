@@ -4,6 +4,7 @@ This is the first project of the Main Ruby on Rails curriculum at [Microverse](h
 * The goal was to get started using Ruby on Rails.
 * The project was completed using Ruby on Rails.
 
+#### [Live version](https://wet-feet.herokuapp.com/users)
 #### [Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)  
 
 #### Authors

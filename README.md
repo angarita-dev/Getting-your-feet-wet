@@ -1,6 +1,6 @@
 # Project: Getting Your Feet Wet
 
-This is the first project of the Main Ruby on Rails curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
+This is the first project of the Main Ruby on Rails curriculum at [Microverse](https://www.microverse.org/)
 * The goal was to get started using Ruby on Rails.
 * The project was completed using Ruby on Rails.
 
